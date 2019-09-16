@@ -4,8 +4,8 @@
 
 |  | `fgets` | `scanf` | `cin` | `getline` |
 | :---: | :---: | :---: | :---: | :---: |
-| Space | ☑  | `scanf("%c", &c)`☑  | ❌  | ☑  |
-| Line break | ☑  | `scanf("%c", &c)`☑ | ❌  | ❌  |
+| Space | ☑ | `scanf("%c", &c)`☑ | ❌ | ☑ |
+| Line break | ☑ | `scanf("%c", &c)`☑ | ❌ | ❌ |
 
 ## Data Comparison
 
