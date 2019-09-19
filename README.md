@@ -27,5 +27,5 @@ Notebook for **Prata, Stephen.** _**C++ Primer Plus（第6版）中文版（异�
 | 空白 | white space |
 | 运算符重载 | operator overloading |
 | 整型提升 | integral promotion |
-| 算术类型（整型 + 浮点型） | arithmetic numbers (integer + floating-point numbers) |
+| 算术类型（整型 + 浮点型） | arithmetic numbers \(integer + floating-point numbers\) |
 
